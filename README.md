@@ -1,6 +1,6 @@
-# Assignment-1-Code-Refactor
+# Revamping Website Code!
 
-## Revamping website code to look better and run smoother
+## Refactoring website code to look better and run smoother
 
 For some good practice to get a better grasp of editing code I took on this project of going through and refactoring previously existing code.
 By doing so I was able to make the new code easier to read and understand for future developers who may need to make changes in the future.
@@ -17,6 +17,6 @@ This is an image of the website and it's functions
 
 ![The Horiseon webpage](./assets/images/demo.png)
 
-[View Website Here](https://mpalfano.github.io/Assignment-1-Code-Refactor/)
+[View Website Here](https://mpalfano.github.io/Revamping-website-code//)
 
 © 2019 Horiseon Social Solution Services, Inc.
