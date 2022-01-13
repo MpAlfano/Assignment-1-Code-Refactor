@@ -29,15 +29,18 @@ h1 {
     font-size: 48px;
 }
 
-/* Class selector */
-.seo {
-    color: #d9dcd6;
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
-/* Element selectors */
-ul li {
-    display: inline-block;
-    margin-left: 25px;
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
 }
 
 a {
@@ -47,6 +50,11 @@ a {
 
 p {
     font-size: 16px;
+}
+
+ul li {
+    display: inline-block;
+    margin-left: 25px;
 }
 
 /*Main image*/
@@ -59,7 +67,18 @@ figure {
     background-position: center;
 }
 
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
 /* Class selectors */
+.seo {
+    color: #d9dcd6;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -95,13 +114,6 @@ figure {
     max-height: 200px;
 }
 
-/* Element selector */
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Class selectors */
 .rightside {
     margin-right: 20px;
     padding: 20px;
@@ -116,21 +128,4 @@ h2 {
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-/* Element selectors */
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-h4 {
-    font-size: 20px;
 }
