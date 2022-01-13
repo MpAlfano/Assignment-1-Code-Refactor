@@ -17,6 +17,6 @@ This is an image of the website and it's functions
 
 ![The Horiseon webpage](./assets/images/demo.png)
 
-[View Website Here](https://mpalfano.github.io/Revamping-website-code//)
+[View Website Here](https://mpalfano.github.io/Revamping-website-code/)
 
 © 2019 Horiseon Social Solution Services, Inc.
