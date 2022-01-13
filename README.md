@@ -13,6 +13,8 @@ Looking at the new and improved code with it's easy readability you can see the 
 
 ### Horiseon website
 
-This is an image of the website and it's functions (./Horiseon/assets/images/demo.png)
+This is an image of the website and it's functions (./assets/images/demo.png)
+
+[View Website Here](https://mpalfano.github.io/Assignment-1-Code-Refactor/)
 
 © 2019 Horiseon Social Solution Services, Inc.
