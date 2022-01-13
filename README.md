@@ -15,7 +15,7 @@ Looking at the new and improved code with it's easy readability you can see the 
 
 This is an image of the website and it's functions
 
-![The Horiseon webpage](./Horiseon/assets/images/Demo.png)
+![The Horiseon webpage](./assets/images/demo.png)
 
 [View Website Here](https://mpalfano.github.io/Assignment-1-Code-Refactor/)
 
