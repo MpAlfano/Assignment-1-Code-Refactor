@@ -49,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/*Main image*/
 figure {
     height: 800px;
     width: 100%;
@@ -101,7 +102,7 @@ h2 {
 }
 
 /* Class selectors */
-.benefits {
+.rightside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
